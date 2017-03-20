@@ -1,0 +1,7 @@
+{
+    "name": "basic-auth-example",
+    "description": "Example usage of basic auth",
+    "license": "ISC",
+    "version": 1,
+    "dependencies": {}
+}
